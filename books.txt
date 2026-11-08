@@ -1,0 +1,3 @@
+book1|sama|120.0
+book2|sara|100.0
+book3|Hussein|90.0
